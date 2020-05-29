@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\bin\Debug\Example_Mtra_DateTimePick.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\bin\Debug\Example_Mtra_DateTimePick.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\bin\Debug\Example_Mtra_DateTimePick.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\obj\Debug\Example_Mtra_DateTimePick.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\obj\Debug\Example_Mtra_DateTimePick.frm_ejemplo.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\obj\Debug\Example_Mtra_DateTimePick.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\obj\Debug\Example_Mtra_DateTimePick.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\obj\Debug\Example_Mtra_DateTimePick.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\obj\Debug\Example_Mtra_DateTimePick.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_DateTimePick\Example_Mtra_DateTimePick\obj\Debug\Example_Mtra_DateTimePick.pdb

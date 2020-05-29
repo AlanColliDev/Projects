@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.pdb

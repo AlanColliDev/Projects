@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\bin\Debug\Desc_Trabajador.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\bin\Debug\Desc_Trabajador.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\bin\Debug\Desc_Trabajador.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\obj\Debug\Desc_Trabajador.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\obj\Debug\Desc_Trabajador.frm_Claculo_Sueldo.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\obj\Debug\Desc_Trabajador.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\obj\Debug\Desc_Trabajador.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\obj\Debug\Desc_Trabajador.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\obj\Debug\Desc_Trabajador.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Desc_Trabajador\Desc_Trabajador\obj\Debug\Desc_Trabajador.pdb

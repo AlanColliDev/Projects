@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\bin\Debug\Excer4Rbt_Calc.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\bin\Debug\Excer4Rbt_Calc.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\bin\Debug\Excer4Rbt_Calc.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\obj\Debug\Excer4Rbt_Calc.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\obj\Debug\Excer4Rbt_Calc.frm_Excer4.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\obj\Debug\Excer4Rbt_Calc.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\obj\Debug\Excer4Rbt_Calc.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\obj\Debug\Excer4Rbt_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\obj\Debug\Excer4Rbt_Calc.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer4Rbt_Calc\Excer4Rbt_Calc\obj\Debug\Excer4Rbt_Calc.pdb

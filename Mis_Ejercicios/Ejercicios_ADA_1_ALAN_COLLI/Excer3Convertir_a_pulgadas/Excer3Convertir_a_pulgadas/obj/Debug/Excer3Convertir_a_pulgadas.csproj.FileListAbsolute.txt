@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\bin\Debug\Excer3Convertir_a_pulgadas.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\bin\Debug\Excer3Convertir_a_pulgadas.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\bin\Debug\Excer3Convertir_a_pulgadas.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\obj\Debug\Excer3Convertir_a_pulgadas.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\obj\Debug\Excer3Convertir_a_pulgadas.frm_Conversión.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\obj\Debug\Excer3Convertir_a_pulgadas.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\obj\Debug\Excer3Convertir_a_pulgadas.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\obj\Debug\Excer3Convertir_a_pulgadas.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\obj\Debug\Excer3Convertir_a_pulgadas.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer3Convertir_a_pulgadas\Excer3Convertir_a_pulgadas\obj\Debug\Excer3Convertir_a_pulgadas.pdb

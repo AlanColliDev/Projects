@@ -1,0 +1,10 @@
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\bin\Debug\Excer3Ecuacion.exe.config
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\bin\Debug\Excer3Ecuacion.exe
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\bin\Debug\Excer3Ecuacion.pdb
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\obj\Debug\Excer3Ecuacion.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\obj\Debug\Excer3Ecuacion.frm_Excer4.resources
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\obj\Debug\Excer3Ecuacion.Properties.Resources.resources
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\obj\Debug\Excer3Ecuacion.csproj.GenerateResource.Cache
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\obj\Debug\Excer3Ecuacion.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\obj\Debug\Excer3Ecuacion.exe
+C:\Users\Portatil\source\repos\Excer3Ecuacion\Excer3Ecuacion\obj\Debug\Excer3Ecuacion.pdb

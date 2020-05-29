@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\obj\Debug\Excer4Calc_Año_Nacimiento.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\obj\Debug\Excer4Calc_Año_Nacimiento.frm_Calcular_Edad.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\obj\Debug\Excer4Calc_Año_Nacimiento.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\obj\Debug\Excer4Calc_Año_Nacimiento.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\obj\Debug\Excer4Calc_Año_Nacimiento.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\bin\Debug\Excer4Calc_Año_Nacimiento.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\bin\Debug\Excer4Calc_Año_Nacimiento.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\bin\Debug\Excer4Calc_Año_Nacimiento.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\obj\Debug\Excer4Calc_Año_Nacimiento.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer4Calc_Año_Nacimiento\Excer4Calc_Año_Nacimiento\obj\Debug\Excer4Calc_Año_Nacimiento.pdb

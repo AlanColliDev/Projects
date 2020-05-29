@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\bin\Debug\Example_NCapas.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\bin\Debug\Example_NCapas.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\bin\Debug\Example_NCapas.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\obj\Debug\Example_NCapas.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\obj\Debug\Example_NCapas.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\obj\Debug\Example_NCapas.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\obj\Debug\Example_NCapas.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\obj\Debug\Example_NCapas.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\obj\Debug\Example_NCapas.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_NCapas\Example_NCapas\obj\Debug\Example_NCapas.pdb

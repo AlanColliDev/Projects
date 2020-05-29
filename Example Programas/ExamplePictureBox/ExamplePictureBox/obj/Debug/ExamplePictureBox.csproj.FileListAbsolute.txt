@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\bin\Debug\ExamplePictureBox.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\bin\Debug\ExamplePictureBox.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\bin\Debug\ExamplePictureBox.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\obj\Debug\ExamplePictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\obj\Debug\ExamplePictureBox.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\obj\Debug\ExamplePictureBox.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\obj\Debug\ExamplePictureBox.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\obj\Debug\ExamplePictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\obj\Debug\ExamplePictureBox.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\ExamplePictureBox\ExamplePictureBox\obj\Debug\ExamplePictureBox.pdb

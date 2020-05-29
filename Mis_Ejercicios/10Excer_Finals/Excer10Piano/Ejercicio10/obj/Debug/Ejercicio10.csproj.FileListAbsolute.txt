@@ -1,0 +1,20 @@
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojResolveAssemblyReference.cache
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.frm_Piano.resources
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.Cache
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+c:\users\oswa\source\repos\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\obj\Debug\Ejercicio10.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\obj\Debug\Ejercicio10.frm_Piano.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer10Piano\Ejercicio10\obj\Debug\Ejercicio10.pdb

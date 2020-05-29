@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\bin\Debug\Monto_Descuento.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\bin\Debug\Monto_Descuento.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\bin\Debug\Monto_Descuento.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\obj\Debug\Monto_Descuento.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\obj\Debug\Monto_Descuento.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\obj\Debug\Monto_Descuento.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\obj\Debug\Monto_Descuento.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\obj\Debug\Monto_Descuento.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\obj\Debug\Monto_Descuento.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Monto_Descuento\Monto_Descuento\obj\Debug\Monto_Descuento.pdb

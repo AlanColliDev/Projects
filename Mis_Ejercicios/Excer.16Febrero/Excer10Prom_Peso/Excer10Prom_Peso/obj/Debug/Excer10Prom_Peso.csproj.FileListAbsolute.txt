@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\bin\Debug\Excer10Prom_Peso.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\bin\Debug\Excer10Prom_Peso.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\bin\Debug\Excer10Prom_Peso.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\obj\Debug\Excer10Prom_Peso.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\obj\Debug\Excer10Prom_Peso.frm_Ejercicio10.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\obj\Debug\Excer10Prom_Peso.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\obj\Debug\Excer10Prom_Peso.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\obj\Debug\Excer10Prom_Peso.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\obj\Debug\Excer10Prom_Peso.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer10Prom_Peso\Excer10Prom_Peso\obj\Debug\Excer10Prom_Peso.pdb

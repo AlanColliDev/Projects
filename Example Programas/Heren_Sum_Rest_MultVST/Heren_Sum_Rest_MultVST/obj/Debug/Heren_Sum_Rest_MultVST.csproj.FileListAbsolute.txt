@@ -1,0 +1,7 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Heren_Sum_Rest_MultVST\Heren_Sum_Rest_MultVST\obj\Debug\Heren_Sum_Rest_MultVST.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Heren_Sum_Rest_MultVST\Heren_Sum_Rest_MultVST\obj\Debug\Heren_Sum_Rest_MultVST.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Heren_Sum_Rest_MultVST\Heren_Sum_Rest_MultVST\bin\Debug\Heren_Sum_Rest_MultVST.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Heren_Sum_Rest_MultVST\Heren_Sum_Rest_MultVST\bin\Debug\Heren_Sum_Rest_MultVST.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Heren_Sum_Rest_MultVST\Heren_Sum_Rest_MultVST\bin\Debug\Heren_Sum_Rest_MultVST.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Heren_Sum_Rest_MultVST\Heren_Sum_Rest_MultVST\obj\Debug\Heren_Sum_Rest_MultVST.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Heren_Sum_Rest_MultVST\Heren_Sum_Rest_MultVST\obj\Debug\Heren_Sum_Rest_MultVST.pdb

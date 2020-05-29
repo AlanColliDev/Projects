@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excer6Dado", "Excer6Dado\Excer6Dado.csproj", "{CDD0A03A-2F07-4306-BBD5-D8C9E49CF99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD0A03A-2F07-4306-BBD5-D8C9E49CF99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD0A03A-2F07-4306-BBD5-D8C9E49CF99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD0A03A-2F07-4306-BBD5-D8C9E49CF99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD0A03A-2F07-4306-BBD5-D8C9E49CF99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {022EC1E0-408E-4BF7-81E0-4983970D58DC}
+	EndGlobalSection
+EndGlobal

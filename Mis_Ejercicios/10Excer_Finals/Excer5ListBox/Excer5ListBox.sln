@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excer5ListBox", "Excer5ListBox\Excer5ListBox.csproj", "{3455EB30-0E4E-43D8-B4D4-5DFC765AD08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3455EB30-0E4E-43D8-B4D4-5DFC765AD08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3455EB30-0E4E-43D8-B4D4-5DFC765AD08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3455EB30-0E4E-43D8-B4D4-5DFC765AD08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3455EB30-0E4E-43D8-B4D4-5DFC765AD08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BB9AFE-9963-4C69-B7B2-286A4127B62F}
+	EndGlobalSection
+EndGlobal

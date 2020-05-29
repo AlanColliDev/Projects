@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\bin\Debug\SegundosMinutos.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\bin\Debug\SegundosMinutos.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\bin\Debug\SegundosMinutos.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\obj\Debug\SegundosMinutos.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\obj\Debug\SegundosMinutos.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\obj\Debug\SegundosMinutos.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\obj\Debug\SegundosMinutos.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\obj\Debug\SegundosMinutos.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\obj\Debug\SegundosMinutos.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\SegundosMinutos\SegundosMinutos\obj\Debug\SegundosMinutos.pdb

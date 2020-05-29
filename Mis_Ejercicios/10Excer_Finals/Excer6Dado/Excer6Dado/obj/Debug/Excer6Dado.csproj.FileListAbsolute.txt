@@ -1,0 +1,11 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\bin\Debug\Excer6Dado.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\bin\Debug\Excer6Dado.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\bin\Debug\Excer6Dado.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.frm_Excer6.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer6Dado\Excer6Dado\obj\Debug\Excer6Dado.Resource1.resources

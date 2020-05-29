@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\bin\Debug\Unidad1_Practica4.1.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\bin\Debug\Unidad1_Practica4.1.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\bin\Debug\Unidad1_Practica4.1.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\obj\Debug\Unidad1_Practica4.1.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\obj\Debug\Unidad1_Practica4._1.frm_OBByHerencia.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\obj\Debug\Unidad1_Practica4._1.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\obj\Debug\Unidad1_Practica4.1.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\obj\Debug\Unidad1_Practica4.1.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\obj\Debug\Unidad1_Practica4.1.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\EXCERMiercoles\Unidad1_Practica4.1\Unidad1_Practica4.1\obj\Debug\Unidad1_Practica4.1.pdb

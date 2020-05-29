@@ -1,0 +1,11 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\bin\Debug\netcoreapp2.0\Gest_EmpresaAgro.deps.json
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\bin\Debug\netcoreapp2.0\Gest_EmpresaAgro.runtimeconfig.json
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\bin\Debug\netcoreapp2.0\Gest_EmpresaAgro.runtimeconfig.dev.json
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\bin\Debug\netcoreapp2.0\Gest_EmpresaAgro.dll
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\bin\Debug\netcoreapp2.0\Gest_EmpresaAgro.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\obj\Debug\netcoreapp2.0\Gest_EmpresaAgro.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\obj\Debug\netcoreapp2.0\Gest_EmpresaAgro.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\obj\Debug\netcoreapp2.0\Gest_EmpresaAgro.AssemblyInfoInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\obj\Debug\netcoreapp2.0\Gest_EmpresaAgro.AssemblyInfo.cs
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\obj\Debug\netcoreapp2.0\Gest_EmpresaAgro.dll
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Gest_EmpresaAgro\Gest_EmpresaAgro\obj\Debug\netcoreapp2.0\Gest_EmpresaAgro.pdb

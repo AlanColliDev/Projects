@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\bin\Debug\Excer1_Sistema_Desc.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\bin\Debug\Excer1_Sistema_Desc.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\bin\Debug\Excer1_Sistema_Desc.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\obj\Debug\Excer1_Sistema_Desc.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\obj\Debug\Excer1_Sistema_Desc.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\obj\Debug\Excer1_Sistema_Desc.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\obj\Debug\Excer1_Sistema_Desc.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\obj\Debug\Excer1_Sistema_Desc.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\obj\Debug\Excer1_Sistema_Desc.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Ejercicios_2\Excer1_Sistema_Desc\Excer1_Sistema_Desc\obj\Debug\Excer1_Sistema_Desc.pdb

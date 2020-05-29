@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\bin\Debug\Excer1.-Edad_Empleado.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\bin\Debug\Excer1.-Edad_Empleado.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\bin\Debug\Excer1.-Edad_Empleado.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\obj\Debug\Excer1.-Edad_Empleado.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\obj\Debug\Excer1._Edad_Empleado.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\obj\Debug\Excer1._Edad_Empleado.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\obj\Debug\Excer1.-Edad_Empleado.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\obj\Debug\Excer1.-Edad_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\obj\Debug\Excer1.-Edad_Empleado.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer1.-Edad_Empleado\Excer1.-Edad_Empleado\obj\Debug\Excer1.-Edad_Empleado.pdb

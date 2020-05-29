@@ -1,0 +1,6 @@
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_polimorfismo_prog2\ejemplo_polimorfismo_prog2\bin\Debug\ejemplo_polimorfismo_prog2.exe.config
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_polimorfismo_prog2\ejemplo_polimorfismo_prog2\bin\Debug\ejemplo_polimorfismo_prog2.exe
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_polimorfismo_prog2\ejemplo_polimorfismo_prog2\bin\Debug\ejemplo_polimorfismo_prog2.pdb
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_polimorfismo_prog2\ejemplo_polimorfismo_prog2\obj\Debug\ejemplo_polimorfismo_prog2.csprojResolveAssemblyReference.cache
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_polimorfismo_prog2\ejemplo_polimorfismo_prog2\obj\Debug\ejemplo_polimorfismo_prog2.exe
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_polimorfismo_prog2\ejemplo_polimorfismo_prog2\obj\Debug\ejemplo_polimorfismo_prog2.pdb

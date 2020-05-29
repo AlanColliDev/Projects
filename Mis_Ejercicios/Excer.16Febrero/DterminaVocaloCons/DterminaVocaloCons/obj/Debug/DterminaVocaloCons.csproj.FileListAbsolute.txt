@@ -1,0 +1,9 @@
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\bin\Debug\DterminaVocaloCons.exe.config
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\bin\Debug\DterminaVocaloCons.exe
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\bin\Debug\DterminaVocaloCons.pdb
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\obj\Debug\DterminaVocaloCons.csprojResolveAssemblyReference.cache
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\obj\Debug\DterminaVocaloCons.Properties.Resources.resources
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\obj\Debug\DterminaVocaloCons.csproj.GenerateResource.Cache
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\obj\Debug\DterminaVocaloCons.exe
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\obj\Debug\DterminaVocaloCons.pdb
+C:\Users\AlumnoTIC\Desktop\DterminaVocaloCons\DterminaVocaloCons\obj\Debug\DterminaVocaloCons.frm_Ver.resources

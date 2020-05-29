@@ -1,0 +1,31 @@
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.exe.config
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.exe
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.pdb
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\bin\Debug\MetroFramework.dll
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.Properties.Resources.resources
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csproj.GenerateResource.Cache
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.exe
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.pdb
+C:\Users\Portatil\source\repos\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.frm_Excer4.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.frm_Excer4.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\bin\Debug\Excer5ListBox.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.frm_Excer4.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Finals\Excer5ListBox\Excer5ListBox\obj\Debug\Excer5ListBox.pdb

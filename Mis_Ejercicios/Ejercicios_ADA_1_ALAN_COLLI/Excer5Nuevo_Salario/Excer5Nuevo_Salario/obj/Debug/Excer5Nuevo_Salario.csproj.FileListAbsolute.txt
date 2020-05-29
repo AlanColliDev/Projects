@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\bin\Debug\Excer5Nuevo_Salario.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\bin\Debug\Excer5Nuevo_Salario.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\bin\Debug\Excer5Nuevo_Salario.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\obj\Debug\Excer5Nuevo_Salario.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\obj\Debug\Excer5Nuevo_Salario.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\obj\Debug\Excer5Nuevo_Salario.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\obj\Debug\Excer5Nuevo_Salario.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\obj\Debug\Excer5Nuevo_Salario.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\obj\Debug\Excer5Nuevo_Salario.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer5Nuevo_Salario\Excer5Nuevo_Salario\obj\Debug\Excer5Nuevo_Salario.pdb

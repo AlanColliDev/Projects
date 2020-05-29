@@ -1,0 +1,2 @@
+EXPONENTE = private object i = Math.Pow(1, 8);
+CONVERTIR DE MAYUS A MINUS = CONVERT.TOLOWER();

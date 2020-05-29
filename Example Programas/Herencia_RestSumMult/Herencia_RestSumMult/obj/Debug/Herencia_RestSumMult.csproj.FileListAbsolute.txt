@@ -1,0 +1,6 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Herencia_RestSumMult\Herencia_RestSumMult\bin\Debug\Herencia_RestSumMult.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Herencia_RestSumMult\Herencia_RestSumMult\bin\Debug\Herencia_RestSumMult.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Herencia_RestSumMult\Herencia_RestSumMult\bin\Debug\Herencia_RestSumMult.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Herencia_RestSumMult\Herencia_RestSumMult\obj\Debug\Herencia_RestSumMult.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Herencia_RestSumMult\Herencia_RestSumMult\obj\Debug\Herencia_RestSumMult.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Herencia_RestSumMult\Herencia_RestSumMult\obj\Debug\Herencia_RestSumMult.pdb

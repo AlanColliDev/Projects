@@ -1,0 +1,6 @@
+C:\Users\Portatil\Desktop\ExampleSett\ExampleSett\obj\Debug\ExampleSett.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ExampleSett\ExampleSett\bin\Debug\ExampleSett.exe.config
+C:\Users\Portatil\Desktop\ExampleSett\ExampleSett\bin\Debug\ExampleSett.exe
+C:\Users\Portatil\Desktop\ExampleSett\ExampleSett\bin\Debug\ExampleSett.pdb
+C:\Users\Portatil\Desktop\ExampleSett\ExampleSett\obj\Debug\ExampleSett.exe
+C:\Users\Portatil\Desktop\ExampleSett\ExampleSett\obj\Debug\ExampleSett.pdb

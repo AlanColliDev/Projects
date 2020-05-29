@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\bin\Debug\Dias_Hrs_Minutos.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\bin\Debug\Dias_Hrs_Minutos.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\bin\Debug\Dias_Hrs_Minutos.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\obj\Debug\Dias_Hrs_Minutos.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\obj\Debug\Dias_Hrs_Minutos.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\obj\Debug\Dias_Hrs_Minutos.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\obj\Debug\Dias_Hrs_Minutos.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\obj\Debug\Dias_Hrs_Minutos.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\obj\Debug\Dias_Hrs_Minutos.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Dias_Hrs_Minutos\Dias_Hrs_Minutos\obj\Debug\Dias_Hrs_Minutos.pdb

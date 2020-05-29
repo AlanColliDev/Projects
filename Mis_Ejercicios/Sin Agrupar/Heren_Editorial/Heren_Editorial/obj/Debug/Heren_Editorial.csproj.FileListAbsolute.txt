@@ -1,0 +1,7 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Heren_Editorial\Heren_Editorial\bin\Debug\Heren_Editorial.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Heren_Editorial\Heren_Editorial\bin\Debug\Heren_Editorial.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Heren_Editorial\Heren_Editorial\bin\Debug\Heren_Editorial.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Heren_Editorial\Heren_Editorial\obj\Debug\Heren_Editorial.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Heren_Editorial\Heren_Editorial\obj\Debug\Heren_Editorial.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Heren_Editorial\Heren_Editorial\obj\Debug\Heren_Editorial.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Heren_Editorial\Heren_Editorial\obj\Debug\Heren_Editorial.pdb

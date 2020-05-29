@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\bin\Debug\Excer7ConvaPosit.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\bin\Debug\Excer7ConvaPosit.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\bin\Debug\Excer7ConvaPosit.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\obj\Debug\Excer7ConvaPosit.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\obj\Debug\Excer7ConvaPosit.frm_Conver.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\obj\Debug\Excer7ConvaPosit.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\obj\Debug\Excer7ConvaPosit.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\obj\Debug\Excer7ConvaPosit.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\obj\Debug\Excer7ConvaPosit.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer7ConvaPosit\Excer7ConvaPosit\obj\Debug\Excer7ConvaPosit.pdb

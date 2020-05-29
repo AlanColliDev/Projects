@@ -1,0 +1,7 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Example Programas\ejemplo_herencia_suma\ejemplo_herencia_suma\bin\Debug\ejemplo_herencia_suma.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Example Programas\ejemplo_herencia_suma\ejemplo_herencia_suma\bin\Debug\ejemplo_herencia_suma.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Example Programas\ejemplo_herencia_suma\ejemplo_herencia_suma\bin\Debug\ejemplo_herencia_suma.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Example Programas\ejemplo_herencia_suma\ejemplo_herencia_suma\obj\Debug\ejemplo_herencia_suma.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Example Programas\ejemplo_herencia_suma\ejemplo_herencia_suma\obj\Debug\ejemplo_herencia_suma.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Example Programas\ejemplo_herencia_suma\ejemplo_herencia_suma\obj\Debug\ejemplo_herencia_suma.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Example Programas\ejemplo_herencia_suma\ejemplo_herencia_suma\obj\Debug\ejemplo_herencia_suma.pdb

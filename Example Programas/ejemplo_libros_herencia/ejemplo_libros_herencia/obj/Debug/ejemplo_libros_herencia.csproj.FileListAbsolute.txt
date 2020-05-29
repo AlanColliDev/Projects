@@ -1,0 +1,10 @@
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_libros_herencia\ejemplo_libros_herencia\bin\Debug\ejemplo_libros_herencia.exe.config
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_libros_herencia\ejemplo_libros_herencia\bin\Debug\ejemplo_libros_herencia.exe
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_libros_herencia\ejemplo_libros_herencia\bin\Debug\ejemplo_libros_herencia.pdb
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_libros_herencia\ejemplo_libros_herencia\obj\Debug\ejemplo_libros_herencia.csprojResolveAssemblyReference.cache
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_libros_herencia\ejemplo_libros_herencia\obj\Debug\ejemplo_libros_herencia.exe
+c:\users\marisa\documents\visual studio 2017\Projects\ejemplo_libros_herencia\ejemplo_libros_herencia\obj\Debug\ejemplo_libros_herencia.pdb
+C:\Users\luisa\Desktop\ejemplo_libros_herencia\ejemplo_libros_herencia\bin\Debug\ejemplo_libros_herencia.exe.config
+C:\Users\luisa\Desktop\ejemplo_libros_herencia\ejemplo_libros_herencia\obj\Debug\ejemplo_libros_herencia.exe
+C:\Users\luisa\Desktop\ejemplo_libros_herencia\ejemplo_libros_herencia\obj\Debug\ejemplo_libros_herencia.pdb
+C:\Users\luisa\Desktop\ejemplo_libros_herencia\ejemplo_libros_herencia\obj\Debug\ejemplo_libros_herencia.csprojResolveAssemblyReference.cache

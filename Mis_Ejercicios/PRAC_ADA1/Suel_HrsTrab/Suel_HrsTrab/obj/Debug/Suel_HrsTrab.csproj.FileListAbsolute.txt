@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\bin\Debug\Suel_HrsTrab.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\bin\Debug\Suel_HrsTrab.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\bin\Debug\Suel_HrsTrab.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\obj\Debug\Suel_HrsTrab.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\obj\Debug\Suel_HrsTrab.frm_CalcularSueldo.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\obj\Debug\Suel_HrsTrab.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\obj\Debug\Suel_HrsTrab.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\obj\Debug\Suel_HrsTrab.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\obj\Debug\Suel_HrsTrab.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\PRAC-UNIDAD1-ALAN_COLLI\Suel_HrsTrab\Suel_HrsTrab\obj\Debug\Suel_HrsTrab.pdb

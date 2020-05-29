@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\bin\Debug\PrimerFormulario.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\bin\Debug\PrimerFormulario.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\bin\Debug\PrimerFormulario.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\obj\Debug\PrimerFormulario.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\obj\Debug\PrimerFormulario.Frm_Operaciones.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\obj\Debug\PrimerFormulario.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\obj\Debug\PrimerFormulario.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\obj\Debug\PrimerFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\obj\Debug\PrimerFormulario.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\PrimerFormulario\PrimerFormulario\obj\Debug\PrimerFormulario.pdb

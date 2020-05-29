@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\bin\Debug\Transacc_Cuenta.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\bin\Debug\Transacc_Cuenta.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\bin\Debug\Transacc_Cuenta.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\obj\Debug\Transacc_Cuenta.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\obj\Debug\Transacc_Cuenta.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\obj\Debug\Transacc_Cuenta.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\obj\Debug\Transacc_Cuenta.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\obj\Debug\Transacc_Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\obj\Debug\Transacc_Cuenta.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Transacc_Cuenta\Transacc_Cuenta\obj\Debug\Transacc_Cuenta.pdb

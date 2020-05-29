@@ -1,0 +1,9 @@
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\bin\Debug\Ejemplo_GRID.exe.config
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\bin\Debug\Ejemplo_GRID.exe
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\bin\Debug\Ejemplo_GRID.pdb
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\obj\Debug\Ejemplo_GRID.csprojResolveAssemblyReference.cache
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\obj\Debug\Ejemplo_GRID.Form1.resources
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\obj\Debug\Ejemplo_GRID.Properties.Resources.resources
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\obj\Debug\Ejemplo_GRID.csproj.GenerateResource.Cache
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\obj\Debug\Ejemplo_GRID.exe
+C:\Users\AlumnoTIC\Desktop\Ejemplo_GRID\Ejemplo_GRID\obj\Debug\Ejemplo_GRID.pdb

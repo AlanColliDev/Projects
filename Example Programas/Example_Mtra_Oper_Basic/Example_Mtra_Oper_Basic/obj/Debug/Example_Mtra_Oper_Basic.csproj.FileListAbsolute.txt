@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\bin\Debug\Example_Mtra_Oper_Basic.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\bin\Debug\Example_Mtra_Oper_Basic.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\bin\Debug\Example_Mtra_Oper_Basic.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\obj\Debug\Example_Mtra_Oper_Basic.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\obj\Debug\Example_Mtra_Oper_Basic.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\obj\Debug\Example_Mtra_Oper_Basic.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\obj\Debug\Example_Mtra_Oper_Basic.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\obj\Debug\Example_Mtra_Oper_Basic.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\obj\Debug\Example_Mtra_Oper_Basic.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Example_Mtra_Oper_Basic\Example_Mtra_Oper_Basic\obj\Debug\Example_Mtra_Oper_Basic.pdb

@@ -1,0 +1,12 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\bin\Debug\Ejemplo_ConectarBDD.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\bin\Debug\Ejemplo_ConectarBDD.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\bin\Debug\Ejemplo_ConectarBDD.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.GUI.ProdGUI.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\obj\Debug\Ejemplo_ConectarBDD.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Example Programas\Ejemplo_ConectarBDD\Ejemplo_ConectarBDD\bin\Debug\MySql.Data.dll

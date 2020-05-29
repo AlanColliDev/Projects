@@ -1,0 +1,25 @@
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\bin\Debug\MiniProyectoABC.exe.config
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\bin\Debug\MiniProyectoABC.exe
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\bin\Debug\MiniProyectoABC.pdb
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.csprojResolveAssemblyReference.cache
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.Properties.Resources.resources
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.csproj.GenerateResource.Cache
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.exe
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.pdb
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.frm_menu.resources
+C:\Users\MEX\Documents\Visual Studio 2015\Projects\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.GUI.frm_configuracion.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\bin\Debug\MiniProyectoABC.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\bin\Debug\MiniProyectoABC.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\bin\Debug\MiniProyectoABC.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.GUI.frm_configuracion.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.frm_menu.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.GUI.frm_Alumno.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.GUI.frm_Prestamo.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.GUI.frm_Producto.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\obj\Debug\MiniProyectoABC.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\ConBDD\MiniProyectoABC\MiniProyectoABC\bin\Debug\MySql.Data.dll

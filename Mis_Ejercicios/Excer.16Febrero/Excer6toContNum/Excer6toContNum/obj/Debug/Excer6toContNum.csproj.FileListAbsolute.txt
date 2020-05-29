@@ -1,0 +1,10 @@
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\obj\Debug\Excer6toContNum.csprojResolveAssemblyReference.cache
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\obj\Debug\Excer6toContNum.frm_Excer6.resources
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\obj\Debug\Excer6toContNum.Properties.Resources.resources
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\obj\Debug\Excer6toContNum.csproj.GenerateResource.Cache
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\obj\Debug\Excer6toContNum.csproj.CoreCompileInputs.cache
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\bin\Debug\Excer6toContNum.exe.config
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\bin\Debug\Excer6toContNum.exe
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\bin\Debug\Excer6toContNum.pdb
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\obj\Debug\Excer6toContNum.exe
+c:\users\portatil\source\repos\Excer6toContNum\Excer6toContNum\obj\Debug\Excer6toContNum.pdb

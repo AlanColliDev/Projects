@@ -1,0 +1,7 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Polimorf_AgenciAutos_Meto2\Polimorf_AgenciAutos_Meto2\bin\Debug\Polimorf_AgenciAutos_Meto2.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Polimorf_AgenciAutos_Meto2\Polimorf_AgenciAutos_Meto2\bin\Debug\Polimorf_AgenciAutos_Meto2.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Polimorf_AgenciAutos_Meto2\Polimorf_AgenciAutos_Meto2\bin\Debug\Polimorf_AgenciAutos_Meto2.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Polimorf_AgenciAutos_Meto2\Polimorf_AgenciAutos_Meto2\obj\Debug\Polimorf_AgenciAutos_Meto2.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Polimorf_AgenciAutos_Meto2\Polimorf_AgenciAutos_Meto2\obj\Debug\Polimorf_AgenciAutos_Meto2.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Polimorf_AgenciAutos_Meto2\Polimorf_AgenciAutos_Meto2\obj\Debug\Polimorf_AgenciAutos_Meto2.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Polimorf_AgenciAutos_Meto2\Polimorf_AgenciAutos_Meto2\obj\Debug\Polimorf_AgenciAutos_Meto2.pdb

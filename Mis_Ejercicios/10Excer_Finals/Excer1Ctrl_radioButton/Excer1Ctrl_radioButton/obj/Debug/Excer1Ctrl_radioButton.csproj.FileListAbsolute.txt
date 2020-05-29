@@ -1,0 +1,11 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\bin\Debug\Excer1Ctrl_radioButton.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\bin\Debug\Excer1Ctrl_radioButton.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\bin\Debug\Excer1Ctrl_radioButton.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\obj\Debug\Excer1Ctrl_radioButton.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\obj\Debug\Excer1Ctrl_radioButton.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\obj\Debug\Excer1Ctrl_radioButton.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\obj\Debug\Excer1Ctrl_radioButton.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\obj\Debug\Excer1Ctrl_radioButton.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\obj\Debug\Excer1Ctrl_radioButton.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\bin\Debug\MetroFramework.dll
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\10Excer_Viernes\Excer1Ctrl_radioButton\Excer1Ctrl_radioButton\obj\Debug\Excer1Ctrl_radioButton.frm_excer1.resources

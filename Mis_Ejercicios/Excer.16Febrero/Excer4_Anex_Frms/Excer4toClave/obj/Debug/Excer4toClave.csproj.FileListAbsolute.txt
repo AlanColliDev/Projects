@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\bin\Debug\Excer4toClave.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\bin\Debug\Excer4toClave.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\bin\Debug\Excer4toClave.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\obj\Debug\Excer4toClave.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\obj\Debug\Excer4toClave.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\obj\Debug\Excer4toClave.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\obj\Debug\Excer4toClave.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\obj\Debug\Excer4toClave.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\obj\Debug\Excer4toClave.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Excer.14Febrero\Excer4toClave\Excer4toClave\obj\Debug\Excer4toClave.pdb

@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\obj\Debug\Materias_Aprob.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\obj\Debug\Materias_Aprob.Form1.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\obj\Debug\Materias_Aprob.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\obj\Debug\Materias_Aprob.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\obj\Debug\Materias_Aprob.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\bin\Debug\Materias_Aprob.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\bin\Debug\Materias_Aprob.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\bin\Debug\Materias_Aprob.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\obj\Debug\Materias_Aprob.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2DO CUATRIMESTRE\Programacion\Mis_Ejercicios\Materias_Aprob\Materias_Aprob\obj\Debug\Materias_Aprob.pdb

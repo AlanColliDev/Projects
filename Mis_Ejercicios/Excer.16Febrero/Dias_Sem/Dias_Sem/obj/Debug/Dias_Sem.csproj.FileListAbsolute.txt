@@ -1,0 +1,8 @@
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\bin\Debug\Dias_Sem.exe.config
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\bin\Debug\Dias_Sem.exe
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\bin\Debug\Dias_Sem.pdb
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\obj\Debug\Dias_Sem.Form1.resources
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\obj\Debug\Dias_Sem.Properties.Resources.resources
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\obj\Debug\Dias_Sem.csproj.GenerateResource.Cache
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\obj\Debug\Dias_Sem.exe
+C:\Users\AlumnoTIC\Desktop\Dias_Sem\Dias_Sem\obj\Debug\Dias_Sem.pdb

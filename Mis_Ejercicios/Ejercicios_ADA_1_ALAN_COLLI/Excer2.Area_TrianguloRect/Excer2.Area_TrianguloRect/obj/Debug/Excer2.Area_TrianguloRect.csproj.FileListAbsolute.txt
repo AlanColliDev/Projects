@@ -1,0 +1,10 @@
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\obj\Debug\Excer2.Area_TrianguloRect.csprojResolveAssemblyReference.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\obj\Debug\Excer2.Area_TrianguloRect.frm_Calculador.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\obj\Debug\Excer2.Area_TrianguloRect.Properties.Resources.resources
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\obj\Debug\Excer2.Area_TrianguloRect.csproj.GenerateResource.Cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\obj\Debug\Excer2.Area_TrianguloRect.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\bin\Debug\Excer2.Area_TrianguloRect.exe.config
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\bin\Debug\Excer2.Area_TrianguloRect.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\bin\Debug\Excer2.Area_TrianguloRect.pdb
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\obj\Debug\Excer2.Area_TrianguloRect.exe
+C:\Users\Portatil\Desktop\ALAN\Conalep\UTM\2do Cuatrimestre\Programacion\Mis_Ejercicios\Excer2.Area_TrianguloRect\Excer2.Area_TrianguloRect\obj\Debug\Excer2.Area_TrianguloRect.pdb
